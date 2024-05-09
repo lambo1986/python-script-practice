@@ -16,3 +16,8 @@ Pytest
 ```
 python3 lib/parse_text_file.py
 ```
+
+### Run Parse CSV File:
+```
+python3 lib/parse_csv_file.py
+```
