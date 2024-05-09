@@ -11,3 +11,8 @@ pip install pytest
 ```
 Pytest
 ```
+
+### Run Parse Text File:
+```
+python3 lib/parse_text_file.py
+```
