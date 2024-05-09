@@ -1,0 +1,1 @@
+#This is a little challenge I wanted to work on to learn something about Automation in Python and SQL
