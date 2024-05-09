@@ -6,3 +6,8 @@
 ```
 pip install pytest
 ```
+
+### Run Pytest:
+```
+Pytest
+```
