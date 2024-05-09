@@ -21,3 +21,11 @@ python3 lib/parse_text_file.py
 ```
 python3 lib/parse_csv_file.py
 ```
+
+### Run Query SQLite DB:
+```
+python3 lib/query_sql_db1.py
+```
+
+# Make sure SQLite is installed on your system:
+[SQLite website](https://www.sqlite.org/)
